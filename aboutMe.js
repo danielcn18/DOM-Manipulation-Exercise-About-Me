@@ -11,7 +11,7 @@ for(var i = 0; i < li.length; i++){
     li[i].classList.add('list-item');
 }
 var myImg = document.createElement('img');
-myImg.src = '/myRepresentation.png';
+myImg.src = '/Folder/myRepresentation.png';
 myImg.style.width = '40%';
 myImg.style.height = '35vh';
 (document.body).appendChild(myImg);
